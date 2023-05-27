@@ -13,9 +13,6 @@ body {
   height: 65px;
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
   color: white;
-  border-style: dashed;
-  border-width: 2px;
-  border-color: red;
   padding: 20px;
 }
 
@@ -47,9 +44,6 @@ main{
   display: grid;
   grid-template: 40px 40px / 1fr 1fr;
   gap: 17px;
-  border-style: dashed;
-  border-width: 2px;
-  border-color: red;
 }
 
 .forms--input{
